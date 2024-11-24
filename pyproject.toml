@@ -27,6 +27,8 @@
         torchvision = { version = "^0.18", source = "pytorch-cpu", markers = "extra=='cpu' and extra!='cuda'" }
     ipywidgets = "^8.1.5"
     optuna = "^4.1.0"
+    opencv-python = "^4.10.0.84"
+    black = {extras = ["jupyter"], version = "^24.10.0"}
 
 
     [tool.poetry.group.cuda]
