@@ -29,6 +29,7 @@
     optuna = "^4.1.0"
     opencv-python = "^4.10.0.84"
     black = {extras = ["jupyter"], version = "^24.10.0"}
+    kagglehub = "^0.3.4"
 
 
     [tool.poetry.group.cuda]
