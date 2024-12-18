@@ -30,6 +30,7 @@
     opencv-python = "^4.10.0.84"
     black = {extras = ["jupyter"], version = "^24.10.0"}
     kagglehub = "^0.3.4"
+    numba = "^0.60.0"
 
 
     [tool.poetry.group.cuda]
