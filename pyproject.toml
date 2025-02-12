@@ -31,6 +31,7 @@
     black = {extras = ["jupyter"], version = "^24.10.0"}
     kagglehub = "^0.3.4"
     numba = "^0.60.0"
+    librecommender = "^1.5.1"
 
 
     [tool.poetry.group.cuda]
